@@ -2,4 +2,4 @@
 2 Flash the usb or burn cd dvd
 3 Setup NetBSD Creating user is Recommended and enabling XDM is recommended
 4 After install run su -
-5 vi /etc/motd then i to enter insert mode then dd to delete all the entire line then change all into Welcome to Syslack Multiarch!
+5 vi /etc/motd then i to enter insert mode then dd to delete all the entire line then change all into Welcome to Syslack Multiarch! then esc then :wq
